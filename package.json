@@ -1,7 +1,7 @@
 {
   "name": "terminal-spawn",
   "description": "Spawn the system terminal in the current file or project directory",
-  "repository": "https://github.com/asiloisad/pulsar-terminal-spawn",
+  "repository": "https://github.com/asiloisad-pulsar/terminal-spawn",
   "keywords": [
     "terminal",
     "cmd",
