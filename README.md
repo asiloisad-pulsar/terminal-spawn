@@ -14,7 +14,7 @@ Fork of [open-terminal-here](https://github.com/blueimp/atom-open-terminal-here)
 
 ## Installation
 
-To install `terminal-spawn` search for [terminal-spawn](https://web.pulsar-edit.dev/packages/terminal-spawn) in the Install pane of the Pulsar settings or run `ppm install terminal-spawn`. Alternatively, you can run `ppm install asiloisad/pulsar-terminal-spawn` to install a package directly from the GitHub repository.
+To install `terminal-spawn` search for [terminal-spawn](https://web.pulsar-edit.dev/packages/terminal-spawn) in the Install pane of the Pulsar settings or run `ppm install terminal-spawn`. Alternatively, you can run `ppm install asiloisad-pulsar/terminal-spawn` to install a package directly from the GitHub repository.
 
 ## Commands
 
