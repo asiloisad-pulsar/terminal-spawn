@@ -2,6 +2,9 @@
 
 Spawn the system terminal in the current file or project directory. Distinct from Pulsar's built-in `terminal` package: this one launches the OS terminal application as a separate process, not an embedded one.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [terminal-spawn](https://github.com/lumine-code/terminal-spawn).
+
 Fork of [open-terminal-here](https://github.com/blueimp/atom-open-terminal-here).
 
 ## Features
